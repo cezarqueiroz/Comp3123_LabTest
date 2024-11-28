@@ -1,6 +1,4 @@
 COMP 3123
-ID:101015470
-Name: Joao Cezar Pereira de Queiroz
 
 
 Screen with weather for default city Toronto
